@@ -19,8 +19,7 @@ sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
 dependencies {
-    implementation('org.seleniumhq.selenium:selenium-java:3.141.59')
-    implementation('com.codeborne:selenide:5.15.1')
+    implementation('com.codeborne:selenide:5.16.1')
     testImplementation("io.qameta.allure:allure-selenide:${allureVersion}")
     testImplementation('org.slf4j:slf4j-simple:1.7.29')
 
