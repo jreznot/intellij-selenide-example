@@ -4,6 +4,7 @@ Example of the project created by Selenium UI Testing plugin for IntelliJ IDEA.
 
 Includes:
 
+- Gradle with JUnit 5
 - Selenide tests
 - Allure listener setup
 - Browsers.json file for Selenoid
